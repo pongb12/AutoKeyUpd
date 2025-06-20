@@ -1,25 +1,18 @@
-# AutoKeyUpd
 ----AUTO KEY BY PONGB
-
-----VERSION 2.0.0 ( BETA )
-
-# TÍNH NĂNG ( MAIN )                           # CÁCH DÙNG ( CHẠY FILE AUTOKEY.EXE )
- 
- >AUTO CLICK                                   #CHECK    
-                                                >https://pin.it/3gQWBPtFB
- >AUTO PRESSKEY
-                                               #UpdateLog
- >SAVE SETTING                                  >Làm lại Gui, Bugfix
-  
-#SUPPORT                                       ✅ File này được tạo bằng PyInstaller (open-source-python code)
-                                               ✅ không truy cập internet, không ghi log
- >@Bolanhavua                                   
- 
- >@ChatLGBT
-
-#FEEDBACK
- 
- >https://discord.gg/KqAVC3B2 
- 
-#VIRUSTOTAL(Check)
- >https://www.virustotal.com/gui/file/23de608117fc0a4f7240785e1d5537a9695da72bf6869ca26184454f1eabfb8a?nocache=1
+----VERSION 2.5.0 
+FEATURES (MAIN)  
+AUTO CLICK                            
+                                                  
+AUTO PRESS KEY                    
+SAVE SETTINGS                       # Update Log
+                                                       > Rebuilt GUI, Bugfixes, CPU Priority
+SUPPORT
+ @Bolanhavua
+@ChatL*BT
+FEEDBACK
+https://discord.gg/KqAVC3B2
+FACT
+✅ This file was created using PyInstaller (open-source Python code)
+ ✅ No internet access, no logging
+VIRUSTOTAL
+	https://www.virustotal.com/gui/file/76d2f9b8f9b5b1bcda05abc0dcfbd6505250ad1975dbb7bd7876c95faa9c715b?nocache=1
