@@ -8,7 +8,7 @@ SAVE SETTINGS                       # Update Log
                                                        > Rebuilt GUI, Bugfixes, CPU Priority
 SUPPORT
  @Bolanhavua
-@ChatL*BT
+ @Firefly212
 FEEDBACK
 https://discord.gg/KqAVC3B2
 FACT
